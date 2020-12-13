@@ -39,6 +39,7 @@
         "classmap": ["tests/src"]
     },
     "conflict": {
+        "nikic/php-parser": "^4.10.0",
         "phpstan/phpstan": "^0.12.43"
     },
     "extra": {
